@@ -57,5 +57,5 @@ Three classification models were trained and benchmarked:
 
 ## 📬 Contact
 
-* **LinkedIn:** [Kuvonchbek Begimkulov](https://linkedin.com/in/kuvonchbek-begimkulov)
+* **LinkedIn:** [Kuvonchbek Begimkulov](https://www.linkedin.com/in/quvonchbek212/)
 * **Email:** [begimqulovquvonchbek53@gmail.com](mailto:begimqulovquvonchbek53@gmail.com)
